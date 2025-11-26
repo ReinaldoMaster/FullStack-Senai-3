@@ -73,9 +73,17 @@ main#section-banners img{
 
  /*Botão Voltar topo*/
 
-
+ #voltar-topo {
+ position: fixed;
+ bottom:10px;
+ right: 30px;
+ }
 
 /* página de login  */
+
+
+
+
 
 
 /* Formulário de cadastro*/
